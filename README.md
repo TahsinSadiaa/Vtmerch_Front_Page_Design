@@ -1,1 +1,1 @@
-# Vtmerch_Front_Page_Design
+# Vtmerch_Landing_Page_Design
